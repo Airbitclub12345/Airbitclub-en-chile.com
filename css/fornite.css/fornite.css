@@ -1,0 +1,118 @@
+* {
+    padding:0;
+    margin: 0%;
+    box-sizing: border-box;
+    
+}
+h1 {
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    height:50px;
+    text-align:center;
+    color:black;
+    font-variant: small-caps;
+    font-kerning: normal;
+    line-height:initial ;
+    text-transform: capitalize;
+    text-shadow: blue;
+    vertical-align: top;
+    white-space: nowrap;
+    border-top-left-radius: 10%;
+    margin-right: 50px;
+    width: auto;
+    list-style-position: inside;    
+    font-variant-position:initial;
+    text-shadow: initial;
+    align-self: flex-start;
+    clip: initial;
+    direction: ltr;
+    padding: 0px; 
+    border-top-width: 0px;
+    
+    
+    
+   
+    
+}
+.boton {
+    border-radius: 10px;
+    background-color: white;
+    color:pink;
+    font-size: 40px;
+    padding:20px;
+    border-style: blue;
+    outline-color: blue;
+    background-position: center;
+    margin-bottom: auto;
+    padding-bottom: 100px;
+    border-bottom-right-radius: 20px;
+    font-weight: 300px;
+    cursor: auto;
+    align-self: flex-start;
+    border-top-width: medium;
+
+}
+body {
+    background-color:white;
+}
+.importante {
+    margin: center;
+    
+}
+.informatica {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    padding: 70px;
+    text-align: center;
+
+    color: green;
+
+}
+.informatico {
+    padding: 80px;
+    font-size: 40px;
+    font-weight: 700;
+   margin-top: 100px;
+}
+#bueno {
+    text-align: right;
+    padding:30px;
+    font-size: 30px;
+    margin-bottom: 39px;
+}
+.info {
+    right: 30px;
+    font-size: 30px;
+    margin-bottom: 40px;
+    
+
+}
+.spam .maincra {
+    color:white;
+    background-color: blue;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    padding: 5px;
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, .5);
+    margin-right: 5px;
+    font-style: none;
+    margin-bottom: 50px;
+    font-variant: small-caps;
+}
+p {
+    color:blue;
+}
+.informatico {
+    color:yellow;
+    
+}
+.informatico {
+    color:red;
+    
+}
+ya que es bueno par todos los que de la mejor manera ya que es bueno para todos los que de la mejor manera
